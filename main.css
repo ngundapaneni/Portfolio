@@ -1,0 +1,49 @@
+.brand {
+	color: #CCDDCC;
+}
+
+h3 {
+	color: #FF2255;
+}
+
+#mail {
+	color: #FF2255;
+}
+
+a.anchor{
+	color: #CCDDCC;
+	text-decoration: none;
+}
+
+.socialHolder {
+	position: absolute;
+	bottom: 0;
+	width: 500px;
+}
+
+#id {
+ width : 800px;
+ height: 400px;
+}
+
+.clear {
+	clear: both;
+}
+
+.clearNav {
+	padding-top: 85px;
+	margin-top: -85px;
+}
+
+.navbar-inverse .navbar-inner {
+	background-color: #444444;
+/* background-color: #1b1b1b; 
+background-image: -moz-linear-gradient(top,#222,#111);
+background-image: -webkit-gradient(linear,0 0,0 100%,from(#222),to(#111));
+/* background-image: -webkit-linear-gradient(top,#222,#111);
+background-image: -o-linear-gradient(top,#222,#111);
+/* background-image: linear-gradient(to bottom,#222,#111); */
+/* background-repeat: repeat-x; 
+border-color: #252525;
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff222222',endColorstr='#ff111111',GradientType=0);*/
+}

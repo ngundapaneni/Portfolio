@@ -1,0 +1,17 @@
+Color palette:
+http://www.colourlovers.com/palette/1636915/Tech_city_dream
+
+#559999
+rgb(85,153,153)
+
+#CCDDCC
+rgb(204,221,204)
+
+#EEEEDD
+rgb(238,238,221)
+
+#FF2255
+rgb(255,34,85)
+
+#444444
+rgb(68,68,68)

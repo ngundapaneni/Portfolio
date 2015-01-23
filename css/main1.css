@@ -1,0 +1,87 @@
+body {
+	background-color: #EEEEDD;
+}
+
+header {
+	padding-left: 10px;
+	width: 100%;
+	background-image: -webkit-linear-gradient(top, rgb(68,68,68),rgb(68, 74, 75));
+	background-image: -moz-linear-gradient(rgb(68,68,68),rgb(68, 74, 75));
+	background-image: -ms-linear-gradient(rgb(68,68,68),rgb(68, 74, 75));
+	background-image: -o-linear-gradient(rgb(68,68,68),rgb(68, 74, 75));
+	background-image: linear-gradient(to top, rgb(68,68,68),rgb(68, 74, 75));
+	position: fixed;
+	top: 0;
+	left: 0;
+	border-bottom: 1px outset rgb(68,68,68);
+}
+
+#nameWrapper {
+	margin-top: 5px;
+	padding-top: 10px;
+	float: left;
+	color: #CCDDCC;
+	font-size: 20px;
+}
+
+#navWrapper {
+	float: right;
+	margin-top: 5px;
+	padding-right: 10px;
+}
+
+.navItem {	
+	display: inline-block;
+	border-radius: 5px;
+	width: 80px;
+	height: 30px;
+	list-style: none outside none;
+	text-align: center;
+	border-color: #ccddcc 1px;
+	background-image: -webkit-linear-gradient(top, rgb(68,68,68), rgb(68,68,68));
+	background-image: -moz-linear-gradient(rgb(68,68,68),rgb(68,68,68));
+	background-image: -ms-linear-gradient(rgb(68,68,68),rgb(68,68,68));
+	background-image: -o-linear-gradient(rgb(68,68,68),rgb(68,68,68));
+	background-image: linear-gradient(to top, rgb(68,68,68),rgb(68,68,68));
+}
+
+#mail {
+	color: #FF2255;
+}
+
+.tri {
+	border-color: transparent transparent rgb(242, 102, 102);
+	border-style: solid;
+	border-width: 20px 17px;
+	height: 0;
+	left: 50%;
+	margin: -40px 0 0 -400px;
+	position: absolute;
+	top: 0;
+	width: 0;
+}
+
+a.anchor{
+	color: #CCDDCC;
+	text-decoration: none;
+}
+
+.socialHolder {
+	position: absolute;
+	bottom: 0;
+	width: 500px;
+}
+
+#id {
+ width : 800px;
+ height: 400px;
+}
+
+.clear {
+	clear: both;
+}
+
+.clearNav {
+	padding-top: 85px;
+	margin-top: -85px;
+}
